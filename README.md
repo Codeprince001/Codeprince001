@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wisdom Matthew</h1>
 
 
-- 🔭 I’m currently working on **MERN project: School Portal, EVM Smart Contract**
+- 🔭 About Me **Software Engineer passionate about building scalable web, mobile, and AI-powered solutions.**
 
 - 🌱 I’m currently learning about **AI Agents(LLM), DevOps, Microservices, Smart Contracts: Solidity**
 
