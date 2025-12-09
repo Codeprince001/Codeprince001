@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **MERN Stacks**
 
-- 📫 How to reach me **urangyorkwisdom.gmail.com**
+- 📫 How to reach me **urangyorkwisdom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/wisdom-urangyork-bb4818269/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="kingswisdom001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wisdom-urangyork-bb4818269/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="kingswisdom001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
