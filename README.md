@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **MERN project: School Portal, EVM Smart Contract**
 
-- 🌱 I’m currently learning about **AI/ML, DevOps, Microservices, Smart Contracts: Solidity**
+- 🌱 I’m currently learning about **AI Agents(LLM), DevOps, Microservices, Smart Contracts: Solidity**
 
 - 👯 I’m looking to collaborate on **Frontend Projects, Backend Brojects, Smart Contracts Web3.0**
 
-- 💬 Ask me about **MERN Stacks**
+- 💬 Ask me about **LLM's 🙂**
 
 - 📫 How to reach me **urangyorkwisdom@gmail.com**
 
