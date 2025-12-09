@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wisdom Matthew</h1>
 
 
-- 🔭 I’m currently working on **MERN project: Blog App, EVM Smart Contract**
+- 🔭 I’m currently working on **MERN project: School Portal, EVM Smart Contract**
 
-- 🌱 I’m currently learning about **Microservices, Smart Contracts: Solidity**
+- 🌱 I’m currently learning about **AI/ML, DevOps, Microservices, Smart Contracts: Solidity**
 
 - 👯 I’m looking to collaborate on **Frontend Projects, Backend Brojects, Smart Contracts Web3.0**
 
